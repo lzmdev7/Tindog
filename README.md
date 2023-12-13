@@ -9,4 +9,6 @@ Proyecto Final de la sección 10 del curso Web Development de Angela Yu en Udemy
 Proyecto web para poner en práctica lo aprendido sobre Bootstrap. El sitio web utiliza varios elementos Bootstraps y componentes personalizados como Heroes, Features, Footers, Pricing, Buttons o Jumbotrons.
 
 
-
+![Screenshot of the website](https://github.com/lzmdev7/Tindog/blob/main/website%20screeshots/image%201.png)
+![Screenshot of the website](https://github.com/lzmdev7/Tindog/blob/main/website%20screeshots/image%202.png)
+![Screenshot of the website](https://github.com/lzmdev7/Tindog/blob/main/website%20screeshots/image%203.png)
